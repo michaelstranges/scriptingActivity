@@ -1,0 +1,22 @@
+{
+  "name": "scriptingactivity",
+  "version": "1.0.0",
+  "description": "Scripting Assignment of W2D1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelstranges/scriptingActivity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelstranges/scriptingActivity/issues"
+  },
+  "homepage": "https://github.com/michaelstranges/scriptingActivity#readme",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
